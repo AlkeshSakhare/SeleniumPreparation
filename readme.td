@@ -1,0 +1,7 @@
+#Git commands
+
+git fetch --all												To Fetch all branches
+git branch -all												To show all branches
+git checkout branch_name									To switch branch to branch_name
+git branch new_branch										To create new branch with named as new_branch
+git push git@github.com:AlkeshSakhare/SDETPreparation.git	            To push locally created branch to repository
