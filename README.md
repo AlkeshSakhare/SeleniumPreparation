@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 Quiz:-
 
-https://www.vskills.in/practice/selenium (akleshsakhare@yahoo.com\Selenium@123)
+https://www.vskills.in/practice/selenium
 
 https://www.softwaretestingmaterial.com/selenium-quiz/
 
