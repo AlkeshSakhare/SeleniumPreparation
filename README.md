@@ -31,6 +31,8 @@ https://mindmajix.com/selenium-interview-questions
 
 https://electronicspost.com/selenium-interview-questions/
 
+https://selenium-by-arun.blogspot.com/p/java-for-selenium_2.html
+
 
 
 APPIUM:-
