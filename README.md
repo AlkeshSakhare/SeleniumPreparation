@@ -33,6 +33,8 @@ https://electronicspost.com/selenium-interview-questions/
 
 https://selenium-by-arun.blogspot.com/p/java-for-selenium_2.html
 
+http://net-informations.com/java/default.htm
+
 
 
 APPIUM:-
