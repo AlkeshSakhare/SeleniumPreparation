@@ -36,6 +36,8 @@ https://selenium-by-arun.blogspot.com/p/java-for-selenium_2.html
 http://net-informations.com/java/default.htm
 
 
+___________________________________________________________________________________________________________________________
+
 
 APPIUM:-
 
@@ -76,6 +78,7 @@ https://www.gcreddy.com/2021/05/selenium-multiple-choice-questions.html
 https://skillvalue.com/en/quiz/testing/
 
 https://www.globalguideline.com/quiz/SDLC_Software_Development_Life_Cycle/Selenium
+
 
 ___________________________________________________________________________________________________________________________
 
