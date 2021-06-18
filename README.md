@@ -35,6 +35,7 @@ https://selenium-by-arun.blogspot.com/p/java-for-selenium_2.html
 
 http://net-informations.com/java/default.htm
 
+https://javahungry.blogspot.com/2018/09/70-top-java-interview-programs-with-coding-solutions.html
 
 ___________________________________________________________________________________________________________________________
 
