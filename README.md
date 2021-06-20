@@ -98,3 +98,19 @@ https://demo.nopcommerce.com/
 https://classic.freecrm.com/index.html (aabb2211/aabb2211)
 
 https://demo.openmrs.org/openmrs/login.htm (Admin/Admin123)
+
+___________________________________________________________________________________________________________________________
+
+API Testing Tutorial :- 
+  
+  POSTMAN:
+
+https://www.javatpoint.com/postman
+
+https://www.softwaretestingmaterial.com/postman-tutorial/
+
+https://www.toolsqa.com/postman-tutorial/
+
+https://www.guru99.com/postman-tutorial.html
+
+
