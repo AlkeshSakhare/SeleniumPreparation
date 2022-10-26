@@ -39,6 +39,8 @@ https://javahungry.blogspot.com/2018/09/70-top-java-interview-programs-with-codi
 
 https://www.testnbebest.com/
 
+https://www.techlistic.com/p/selenium-tutorials.html
+
 ___________________________________________________________________________________________________________________________
 
 
