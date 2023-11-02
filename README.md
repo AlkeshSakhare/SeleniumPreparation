@@ -88,7 +88,6 @@ https://www.globalguideline.com/quiz/SDLC_Software_Development_Life_Cycle/Seleni
 ___________________________________________________________________________________________________________________________
 
 
-
 DummySites:-
 
 https://www.seleniumeasy.com/test/
@@ -99,9 +98,22 @@ http://demo.guru99.com/test/newtours/index.php
 
 https://demo.nopcommerce.com/
 
+https://demo.guru99.com/
+
 https://classic.freecrm.com/index.html (aabb2211/aabb2211)
 
 https://demo.openmrs.org/openmrs/login.htm (Admin/Admin123)
+
+https://automationexercise.com/
+
+https://the-internet.herokuapp.com/
+
+https://petstore.swagger.io/
+
+https://reqres.in/
+
+https://restful-booker.herokuapp.com/
+
 
 ___________________________________________________________________________________________________________________________
 
